@@ -1,0 +1,10 @@
+html {
+    background-color: #111111;
+    font-family: IBM Plex Sans, 'sans-serif';
+    color: #D9D9D9;
+}
+
+body {
+    max-width: fit-content;
+    margin: 5em auto 0 auto;
+}
